@@ -1,4 +1,7 @@
-# Openclassrooms Projet 4 : "Menu maker by Qwenta"
+# Menu-Maker-by-Qwenta
+projet 4 OpenClassrooms
+
+![Portfolio](https://img.shields.io/badge/MenuMaker-Qwenta-green)
 
 Les objectifs sont de definir à partir d'une `maquette` et de `spécifications fonctionnelles`, les `spécifications techniques` de l'application web "**Menu Maker By Qwenta**" (voir l'image ci-dessous).
 
@@ -29,3 +32,9 @@ Se référer au document du même nom
 -   Créer un PPT pour présenter la **veille**
 -   Créer un PPT pour présenter le **kanban**
 -   Créer un PPT pour présenter les **spécifications techniques**
+
+## Comment me contacter
+
+Si vous avez des questions, des commentaires ou des propositions de collaboration, n'hésitez pas à me contacter par e-mail à cornicjonathan@gmail.com ou via mon profil LinkedIn à https://www.linkedin.com/in/jonathan-cornic-024607262/.
+
+Je suis fier d'avoir contribué à la gestion du projet de menu maker de Qwenta, et je suis heureux de partager cette expérience avec vous.
