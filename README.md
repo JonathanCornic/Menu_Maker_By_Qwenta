@@ -5,7 +5,7 @@ projet 4 OpenClassrooms
 
 Les objectifs sont de definir à partir d'une `maquette` et de `spécifications fonctionnelles`, les `spécifications techniques` de l'application web "**Menu Maker By Qwenta**" (voir l'image ci-dessous).
 
-![desktop](https://github.com/JonathanCornic/Menu_Maker_By_Qwenta/blob/main/mmbq.png)
+![desktop](https://github.com/JonathanCornic/Menu_Maker_By_Qwenta/blob/main/mmbq%20preview.png)
 
 # Spécifications fonctionnelles
 
